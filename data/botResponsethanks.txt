@@ -1,0 +1,2 @@
+// Player to bot action: Use: @action - actionType - Player's input - bot's response
+@action - RESPONSE - gz- gz!- gratz- congrats- grats- grats!- gratz!- congratz- nice one- nice one!- nice- nice!- wow!- wow- wow gratz- wow gz!- gzz!- gzzz!- goodjob- goodwork- good job- good work- verygood- gzz- gzzz- gzzzz- gratzz- gratzzz- gratzzzz- gzzzz!- gratzz!- gratzzz!- gratzzzz!- very good- good- great - thanks!- ty- thank you!- thank you- atlast!- atlast- woohoo- ty guys- thanks- yes!- alright!- yeaa- yeah!- yea boi!- thanks mate- thanks mates- ty mate- yayy!- yayyyy

@@ -1,0 +1,712 @@
+﻿24595 - Colosseum head
+24605 - Feline ears
+24627 - Swashbuckler mask
+24639 - Assassin hood
+24567 - Revolutionary mask and hat
+24569 - Revolutionary mask
+24571 - Revolutionary hat
+24827 - Beachwear head
+24822 - Sunglass monocles
+25074 - Monarch crown
+25086 - Noble hat
+25098 - Servant hat
+25136 - Fox ears
+25148 - Wolf ears
+25160 - Panda ears
+25273 - Dwarven Warsuit helm
+24806 - Tropical headdress
+24819 - Seaweed hair
+25374 - K'ril's Battlegear helm
+25386 - K'ril's Godcrusher helm
+26043 - Ariane's tiara
+26158 - TokHaar Brute helm
+26170 - TokHaar Veteran helm
+26182 - TokHaar Warlord helm
+26402 - Eastern Captain's tricorne
+26414 - Eastern Crew's hat
+26390 - Western Captain's hat
+26426 - Western Crew's hat
+26464 - Paladin Hero helm
+27075 - Kalphite helm
+27083 - Kalphite antennae
+27174 - Shadow Cat ears
+27181 - Shadow Hunter hood
+27189 - Shadow Sentinel helm
+27205 - Shadow Demon helm
+27198 - Shadow Knight helmet
+27120 - Greater demonflesh mask
+27134 - Lesser demonflesh mask
+27419 - Guthixian war hood
+27431 - Saradominist war hood
+27443 - Zamorakian war hood
+27455 - Zarosian war hood
+27557 - Cowl of Sorrow
+27565 - Hood of Sorrow
+27572 - Garland of Remembrance
+27580 - Wreath of Remembrance
+28001 - Executioner cowl
+28049 - Flameheart headgear
+28056 - Stoneheart helm
+28063 - Stormheart headgear
+28070 - Iceheart headgear
+28846 - Veteran colossus helm
+28861 - Veteran titan helm
+28876 - Veteran behemoth helm
+28891 - Veteran beast helm
+29009 - Dervish hat
+29015 - Eastern hair
+29021 - Tribal circlet
+29027 - Samba headdress
+29033 - Theatrical hat
+29039 - Pharaoh's hat
+29045 - Wushanko hat
+29051 - Silken turban
+29057 - Colonist's hat
+29063 - Highland war paint
+29069 - Feathered serpent headdress
+29075 - Musketeer hat
+29081 - Elven wig
+29087 - Werewolf mask
+29561 - Ambassador of Order circlet
+29575 - Envoy of Order circlet
+29587 - Ambassador of Chaos cap
+29601 - Envoy of Chaos cap
+28941 - Templar helm
+29421 - Superhero mask
+29431 - Superior hero mask
+29461 - Dulcin helm
+29766 - Ravenskull cowl
+29782 - Deathless Regent headguard
+29958 - Ancient mummy burial mask
+29762 - Sinister clown face
+29976 - Ogre infiltrator mask
+29990 - Drakewing head
+30147 - Replica infinity hat
+30159 - Replica infinity hat (air)
+30167 - Replica infinity hat (earth)
+30175 - Replica infinity hat (fire)
+30183 - Replica infinity hat (water)
+30359 - Christmas pudding head
+30361 - Snowman head
+30417 - Frostwalker hood
+30433 - Glad tidings headpiece
+30461 - Golem of Strength helm
+30469 - Construct of Strength helm
+30476 - Golem of Justice helm
+30484 - Construct of Justice helm
+30617 - Replica Virtus mask
+30622 - Replica Torva full helm
+30627 - Replica Pernix cowl
+30967 - Acrobat hat
+30974 - Audience hat
+30976 - Spectator's hat
+30978 - Circus goer's hat
+31028 - Dr Nabanik's old trilby
+31039 - Helm of Zaros
+31040 - Crest of Seren
+31128 - Shadow Ariane's tiara
+31211 - Replica full helm
+31219 - Replica full helm (t)
+31225 - Replica full helm (g)
+31232 - Replica Armadyl helmet
+31296 - Hiker cap
+31546 - Skyshadow head
+32315 - Elven warrior helmet
+32322 - Elven ranger helmet
+32329 - Elven mage helmet
+32543 - Nex helmet
+32551 - Attuned Nex head
+32560 - King Black Dragon head
+32568 - Attuned King Black Dragon head
+33637 - Samurai helmet
+33674 - Replica Ahrim's hood
+33680 - Replica Dharok's helm
+33686 - Replica Guthan's helm
+33692 - Replica Karil's coif
+33698 - Replica Torag's helm
+33705 - Replica Verac's helm
+33711 - Helm of Omens
+24613 - Feline tail
+25142 - Fox tail
+25154 - Wolf tail
+25166 - Panda tail
+24817 - Squid Tentacle cape
+25396 - K'ril's Godcrusher winged cape
+26071 - Ozan's cape
+27084 - Kalphite wing cape
+27178 - Shadow Cat tail
+27186 - Shadow Hunter cape
+27210 - Shadow Demon cape
+28851 - Veteran colossus cape
+28881 - Veteran behemoth cape
+29424 - Superhero cape
+29436 - Superior hero cape
+29792 - Deathless Regent shroud
+30445 - Glad tidings cape
+30466 - Golem of Strength cape
+30481 - Golem of Justice cape
+31139 - Shadow Ozan's cape
+31182 - Brassican cloak
+31183 - Marimban cloak
+31184 - Godless cloak
+32549 - Nex tail
+32557 - Attuned Nex tail
+32566 - King Black Dragon tail
+32574 - Attuned King Black Dragon tail
+33642 - Samurai flag
+25100 - Servant amulet
+24815 - Lei necklace
+24904 - Seaborne dagger
+25112 - Jousting lance (rapier)
+26015 - Brutal rapier
+28983 - Owen's shortsword
+31124 - Shadow Owen's shortsword
+32400 - Proto pack dagger
+24651 - Assassin scimitar
+25283 - Dwarven longsword
+25398 - Cleaver of Tsutsaroth
+26019 - Brutal longsword
+26476 - Paladin blade
+28979 - Owen's longsword
+31122 - Shadow Owen's longsword
+26011 - Brutal mace
+28958 - Linza's hammer
+29794 - Pain
+31115 - Shadow Linza's hammer
+33701 - Replica Torag's hammer
+33708 - Replica Verac's flail
+24900 - Scorching axe
+24886 - Blazing flamberge
+28987 - Owen's greatsword
+27597 - Sword of Edicts
+29986 - Ogre infiltrator sword-club
+31126 - Shadow Owen's greatsword
+31241 - Replica Armadyl godsword
+31240 - Replica Bandos godsword
+31242 - Replica Saradomin godsword
+31243 - Replica Zamorak godsword
+33634 - Owari
+24824 - Parasol 2H sword
+24902 - Shipwrecker trident
+25110 - Jousting lance (spear)
+33689 - Replica Guthan's warspear
+24898 - Daggerfist claws
+26007 - Brutal claw
+29466 - Crab claw
+29425 - Superhero claws
+32396 - Proto pack claw
+24892 - Razor whip
+24894 - Flaming lash
+26005 - Brutal whip
+24577 - Shock Eye staff
+26053 - Ariane's staff
+30002 - Drakewing staff
+31133 - Shadow Ariane's staff
+31552 - Skyshadow staff
+33677 - Replica Ahrim's staff
+24890 - Shatterstorm wand
+24888 - Firebrand bow
+26073 - Ozan's bow
+31140 - Shadow Ozan's bow
+24575 - Quick-Fire crossbow
+25285 - Dwarven crossbow
+26001 - Brutal crossbow
+29776 - Ravenskull talon
+32392 - Proto pack crossbow
+33695 - Replica Karil's crossbow
+33683 - Replica Dharok's greataxe
+29428 - Superhero lightning
+24585 - Cabaret jacket
+24597 - Colosseum jacket
+24607 - Feline jacket
+24617 - Gothic jacket
+24629 - Swashbuckler jacket
+24641 - Assassin jacket
+24828 - Beachwear shirt
+25076 - Monarch doublet
+25088 - Noble jacket
+25102 - Servant jacket
+25138 - Fox jacket
+25150 - Wolf jacket
+25162 - Panda jacket
+25275 - Dwarven Warsuit chest
+24807 - Tropical top
+25376 - K'ril's Battlegear chest armour
+25388 - K'ril's Godcrusher chest armour
+26045 - Ariane's robe
+26063 - Ozan's tunic
+26160 - TokHaar Brute chest armour
+26172 - TokHaar Veteran chest armour
+26184 - TokHaar Warlord chest armour
+26404 - Eastern Captain's coat
+26416 - Eastern Crew's shirt
+26392 - Western Captain's coat
+26428 - Western Crew's shirt
+26466 - Paladin chestplate
+27077 - Kalphite chestplate
+27085 - Kalphite robe top
+27175 - Shadow Cat jacket
+27182 - Shadow Hunter jacket
+27190 - Shadow Sentinel chestplate
+27206 - Shadow Demon chestplate
+27199 - Shadow Knight chestplate
+27122 - Greater demonflesh torso
+27136 - Lesser demonflesh torso
+27222 - Dragon wolf tunic
+27421 - Guthixian war robe
+27433 - Saradominist war robe
+27445 - Zamorakian war robe
+27457 - Zarosian war robe
+27558 - Robes of Sorrow
+27566 - Vestments of Sorrow
+27573 - Robes of Remembrance
+27581 - Vestments of Remembrance
+28003 - Executioner robe
+28050 - Flameheart chest
+28057 - Stoneheart chestplate
+28064 - Stormheart robe
+28071 - Iceheart robe
+28839 - Colossus cuirass
+28847 - Veteran colossus cuirass
+28855 - Titan cuirass
+28862 - Veteran titan cuirass
+28869 - Behemoth cuirass
+28877 - Veteran behemoth cuirass
+28885 - Beast cuirass
+28892 - Veteran beast cuirass
+28950 - Linza's leather vest
+28971 - Owen's cuirass
+29010 - Dervish robe
+29016 - Eastern robes
+29022 - Tribal top
+29028 - Samba top
+29034 - Theatrical tunic
+29040 - Pharaoh's top
+29046 - Wushanko top
+29052 - Silken top
+29058 - Colonist's top
+29064 - Highland top
+29070 - Feathered serpent body
+29076 - Musketeer top
+29082 - Elven top
+29088 - Werewolf torso
+29563 - Ambassador of Order robe
+29577 - Envoy of Order robe
+29589 - Ambassador of Chaos robe
+29603 - Envoy of Chaos robe
+28942 - Templar cuirass
+29419 - Superhero top
+29432 - Superior hero top
+29462 - Dulcin cuirass
+29768 - Ravenskull raiment
+29784 - Deathless Regent breastplate
+29962 - Ancient mummy wraps
+29978 - Ogre infiltrator torso
+29992 - Drakewing torso
+30149 - Replica infinity top
+30161 - Replica infinity top (air)
+30169 - Replica infinity top (earth)
+30177 - Replica infinity top (fire)
+30185 - Replica infinity top (water)
+30419 - Frostwalker tunic
+30437 - Glad tidings shirt
+30462 - Golem of Strength chestplate
+30470 - Construct of Strength chestplate
+30477 - Golem of Justice chestplate
+30485 - Construct of Justice chestplate
+30598 - Blessed Sentinel cuirass
+30607 - Cursed Reaver garb
+30618 - Replica Virtus robe top
+30623 - Replica Torva platebody
+30628 - Replica Pernix body
+30980 - Audience shirt
+30981 - Spectator's shirt
+30982 - Circus goer's shirt
+31129 - Shadow Ariane's robe top
+31135 - Shadow Ozan's tunic
+31111 - Shadow Linza's leather vest
+31118 - Shadow Owen's cuirass
+31212 - Replica platebody
+31220 - Replica platebody (t)
+31226 - Replica platebody (g)
+31233 - Replica Armadyl chestplate
+31237 - Replica Bandos chestplate
+31547 - Skyshadow vest
+32316 - Elven warrior armour
+32323 - Elven ranger armour
+32330 - Elven mage robe
+32544 - Nex armour
+32552 - Attuned Nex armour
+32561 - King Black Dragon armour
+32569 - Attuned King Black Dragon armour
+33638 - Samurai armour
+33712 - Torso of Omens
+33675 - Replica Ahrim's robe top
+33681 - Replica Dharok's platebody
+33687 - Replica Guthan's platebody
+33693 - Replica Karil's top
+33699 - Replica Torag's platebody
+33706 - Replica Verac's brassard
+26037 - Seaborne dagger
+26031 - Jousting lance (rapier)
+26017 - Brutal rapier
+28985 - Owen's shortsword
+31125 - Shadow Owen's off-hand shortsword
+32402 - Proto pack dagger
+26029 - Assassin scimitar
+26025 - Pactbreaker longsword
+25997 - Dwarven longsword
+26023 - Cleaver of Tsutsaroth
+26021 - Brutal longsword
+26478 - Paladin blade
+28981 - Owen's longsword
+31123 - Shadow Owen's off-hand longsword
+26013 - Brutal mace
+28960 - Linza's hammer
+29796 - Agony
+31116 - Shadow Linza's off-hand hammer
+33702 - Replica Torag's hammer
+26035 - Scorching axe
+26033 - Daggerfist claws
+26009 - Brutal claw
+29467 - Off-hand crab claw
+29426 - Superhero claws
+32398 - Proto pack claw
+26027 - Quick-Fire crossbow
+25999 - Dwarven crossbow
+26003 - Brutal crossbow
+29778 - Ravenskull talon
+32394 - Proto pack crossbow
+29429 - Superhero lightning
+24896 - Solarius shield
+25287 - Dwarven shield
+26474 - Paladin shield
+28989 - Owen's shield
+29427 - Superhero shield
+30630 - Replica dragonfire shield
+31127 - Shadow Owen's shield
+31215 - Replica kiteshield
+31223 - Replica kiteshield (t)
+31229 - Replica kiteshield (g)
+33522 - Teddy
+24609 - Feline legs
+24830 - Beachwear shorts
+25080 - Monarch legs
+25092 - Noble legs
+25106 - Servant legs
+25277 - Dwarven Warsuit legwear
+24809 - Grass skirt
+25378 - K'ril's Battlegear leg armour
+25390 - K'ril's Godcrusher leg armour
+26047 - Ariane's robe
+26065 - Ozan's breeches
+26162 - TokHaar Brute leg armour
+26174 - TokHaar Veteran leg armour
+26186 - TokHaar Warlord leg armour
+26406 - Eastern Captain's trousers
+26418 - Eastern Crew's trousers
+26394 - Western Captain's trousers
+26430 - Western Crew's trousers
+26468 - Paladin legplates
+27079 - Kalphite platelegs
+27087 - Kalphite lower robes
+27176 - Shadow Cat legs
+27183 - Shadow Hunter legs
+27191 - Shadow Sentinel legwear
+27207 - Shadow Demon leg armour
+27200 - Shadow Knight legs
+27224 - Dragon wolf leggings
+27423 - Guthixian war robe
+27435 - Saradominist war robe
+27447 - Zamorakian war robe
+27459 - Zarosian war robe
+27560 - Robes of Sorrow
+27568 - Vestments of Sorrow
+27575 - Robes of Remembrance
+27583 - Vestments of Remembrance
+27552 - Skypouncer legwear
+28007 - Executioner robe
+28052 - Flameheart legs
+28059 - Stoneheart greaves
+28066 - Stormheart robe
+28073 - Iceheart robe
+28840 - Colossus greaves
+28848 - Veteran colossus greaves
+28856 - Titan greaves
+28863 - Veteran titan greaves
+28870 - Behemoth greaves
+28878 - Veteran behemoth greaves
+28886 - Beast greaves
+28893 - Veteran beast greaves
+28952 - Linza's apron
+28973 - Owen's cuisses
+29011 - Dervish legs
+29017 - Eastern legs
+29023 - Tribal legs
+29029 - Samba loincloth
+29035 - Theatrical legs
+29041 - Pharaoh's shendyt
+29047 - Wushanko legs
+29053 - Silken legs
+29059 - Colonist's legs
+29065 - Highland kilt
+29071 - Feathered serpent legs
+29077 - Musketeer legs
+29083 - Elven legs
+29090 - Werewolf legs
+29565 - Ambassador of Order robe
+29579 - Envoy of Order robe
+29591 - Ambassador of Chaos robe
+29605 - Envoy of Chaos robe
+28943 - Templar greaves
+29420 - Superhero legs
+29433 - Superior hero legs
+29463 - Dulcin gown
+29770 - Ravenskull garb
+29786 - Deathless Regent legplates
+29960 - Ancient mummy greaves
+29980 - Ogre infiltrator stubs
+29994 - Drakewing legs
+30151 - Replica infinity bottoms
+30163 - Replica infinity bottoms (air)
+30171 - Replica infinity bottoms (earth)
+30179 - Replica infinity bottoms (fire)
+30187 - Replica infinity bottoms (water)
+30632 - Replica dragon plateskirt
+30633 - Replica dragon plateskirt (sp)
+30421 - Frostwalker leggings
+30439 - Glad tidings bottoms
+30463 - Golem of Strength legplates
+30471 - Construct of Strength legplates
+30478 - Golem of Justice legplates
+30487 - Construct of Justice legplates
+30599 - Blessed Sentinel robe
+30608 - Cursed Reaver garb
+30619 - Replica Virtus robe legs
+30624 - Replica Torva platelegs
+30629 - Replica Pernix chaps
+30983 - Audience pants
+30984 - Spectator's pants
+30985 - Circus goer's pants
+31130 - Shadow Ariane's robe bottom
+31136 - Shadow Ozan's breeches
+31112 - Shadow Linza's apron
+31119 - Shadow Owen's cuisses
+31213 - Replica platelegs
+31214 - Replica plateskirt
+31221 - Replica platelegs (t)
+31222 - Replica plateskirt (t)
+31227 - Replica platelegs (g)
+31228 - Replica plateskirt (g)
+31234 - Replica Armadyl chainskirt
+31238 - Replica Bandos tassets
+31548 - Skyshadow bottoms
+32317 - Elven warrior tassets
+32324 - Elven ranger tassets
+32331 - Elven mage robe
+32545 - Nex legs
+32553 - Attuned Nex legs
+32562 - King Black Dragon legs
+32570 - Attuned King Black Dragon legs
+33639 - Samurai tassets
+33713 - Legs of Omens
+33676 - Replica Ahrim's robe skirt
+33682 - Replica Dharok's platelegs
+33688 - Replica Guthan's chainskirt
+33694 - Replica Karil's skirt
+33700 - Replica Torag's platelegs
+33707 - Replica Verac's plateskirt
+25078 - Monarch gloves
+25090 - Noble gloves
+25104 - Servant gloves
+25279 - Dwarven Warsuit gauntlets
+24813 - Tropical bracelets
+25380 - K'ril's Battlegear gauntlets
+25392 - K'ril's Godcrusher gauntlets
+26049 - Ariane's bracers
+26067 - Ozan's gloves
+26164 - TokHaar Brute gauntlets
+26176 - TokHaar Veteran gauntlets
+26188 - TokHaar Warlord gauntlets
+26408 - Eastern Captain's gloves
+26420 - Eastern Crew's gloves
+26396 - Western Captain's gloves
+26432 - Western Crew's gloves
+26472 - Paladin gauntlets
+27078 - Kalphite gauntlets
+27185 - Shadow Hunter gloves
+27192 - Shadow Sentinel gauntlets
+27208 - Shadow Demon gauntlets
+27202 - Shadow Knight gloves
+27425 - Guthixian war gloves
+27437 - Saradominist war gloves
+27449 - Zamorakian war gloves
+27461 - Zarosian war gloves
+27559 - Gauntlets of Sorrow
+27567 - Gloves of Sorrow
+27574 - Bracers of Remembrance
+27582 - Handwraps of Remembrance
+28051 - Flameheart gloves
+28058 - Stoneheart gauntlets
+28065 - Stormheart wraps
+28072 - Iceheart wraps
+28841 - Colossus gauntlets
+28849 - Veteran colossus gauntlets
+28857 - Titan gauntlets
+28864 - Veteran titan gauntlets
+28871 - Behemoth gauntlets
+28879 - Veteran behemoth gauntlets
+28887 - Beast gauntlets
+28894 - Veteran beast gauntlets
+28954 - Linza's gloves
+28975 - Owen's gauntlets
+29089 - Werewolf claws
+29567 - Ambassador of Order gloves
+29581 - Envoy of Order gloves
+29593 - Ambassador of Chaos gloves
+29607 - Envoy of Chaos gloves
+28944 - Templar gauntlets
+29464 - Dulcin gauntlets
+29772 - Ravenskull bracers
+29788 - Deathless Regent gauntlets
+29964 - Ancient mummy handguards
+29982 - Ogre infiltrator hands
+29996 - Drakewing claws
+30153 - Replica infinity gloves
+30441 - Glad tidings handwrap
+30464 - Golem of Strength gauntlets
+30472 - Construct of Strength gauntlets
+30480 - Golem of Justice gauntlets
+30486 - Construct of Justice gauntlets
+31131 - Shadow Ariane's bracers
+31137 - Shadow Ozan's gloves
+31113 - Shadow Linza's gloves
+31120 - Shadow Owen's gauntlets
+31216 - Replica gloves
+31549 - Skyshadow wristwraps
+31978 - Zarosian shadow gauntlets
+31985 - Zarosian praetor gauntlets
+32319 - Elven warrior gauntlets
+32326 - Elven ranger gloves
+32333 - Elven mage gloves
+32547 - Nex gauntlets
+32555 - Attuned Nex gloves
+32564 - King Black Dragon gloves
+32572 - Attuned King Black Dragon gauntlets
+33641 - Samurai gauntlets
+33715 - Gloves of Omens
+24589 - Cabaret shoes
+24601 - Colosseum shoes
+24611 - Feline shoes
+24621 - Gothic shoes
+24633 - Swashbuckler shoes
+24645 - Assassin shoes
+24832 - Beachwear sandals
+25082 - Monarch shoes
+25094 - Noble shoes
+25108 - Servant shoes
+25144 - Fox shoes
+25156 - Wolf shoes
+25168 - Panda shoes
+25281 - Dwarven Warsuit boots
+24811 - Bare feet
+25382 - K'ril's Battlegear boots
+25394 - K'ril's Godcrusher boots
+26051 - Ariane's boots
+26069 - Ozan's boots
+26166 - TokHaar Brute boots
+26178 - TokHaar Veteran boots
+26190 - TokHaar Warlord boots
+26410 - Eastern Captain's boots
+26422 - Eastern Crew's boots
+26398 - Western Captain's boots
+26434 - Western Crew's boots
+27080 - Kalphite armoured boots
+27177 - Shadow Cat shoes
+27184 - Shadow Hunter shoes
+27193 - Shadow Sentinel boots
+27209 - Shadow Demon boots
+27201 - Shadow Knight boots
+27427 - Guthixian war boots
+27439 - Saradominist war boots
+27451 - Zamorakian war boots
+27463 - Zarosian war boots
+27561 - Boots of Sorrow
+27569 - Footwear of Sorrow
+27576 - Sandals of Remembrance
+27584 - Footwraps of Remembrance
+28053 - Flameheart boots
+28060 - Stoneheart boots
+28067 - Stormheart boots
+28074 - Iceheart boots
+28850 - Veteran colossus boots
+28865 - Veteran titan boots
+28880 - Veteran behemoth boots
+28895 - Veteran beast boots
+28956 - Linza's boots
+28977 - Owen's boots
+29012 - Dervish boots
+29018 - Eastern sandals
+29024 - Tribal shoes
+29030 - Samba sandals
+29036 - Theatrical shoes
+29042 - Pharaoh'soh sandals
+29048 - Wushanko shoes
+29054 - Silken boots
+29060 - Colonist's boots
+29066 - Highland boots
+29072 - Feathered serpent boots
+29084 - Elven shoes
+29091 - Werewolf paws
+29569 - Ambassador of Order shoes
+29583 - Envoy of Order shoes
+29595 - Ambassador of Chaos shoes
+29609 - Envoy of Chaos shoes
+28945 - Templar boots
+29465 - Dulcin boots
+29774 - Ravenskull treads
+29790 - Deathless Regent boots
+29966 - Ancient mummy sandals
+29984 - Ogre infiltrator stompers
+29998 - Drakewing feet
+30155 - Replica infinity boots
+30443 - Glad tidings boots
+30465 - Golem of Strength boots
+30473 - Construct of Strength boots
+30479 - Golem of Justice boots
+30488 - Construct of Justice boots
+30986 - Audience shoes
+30987 - Spectator's shoes
+31132 - Shadow Ariane's boots
+31138 - Shadow Ozan's boots
+31114 - Shadow Linza's boots
+31121 - Shadow Owen's boots
+31217 - Replica boots
+31239 - Replica Bandos boots
+31550 - Skyshadow boots
+31979 - Zarosian shadow boots
+31986 - Zarosian praetor boots
+32318 - Elven warrior boots
+32325 - Elven ranger boots
+32332 - Elven mage boots
+32546 - Nex boots
+32554 - Attuned Nex boots
+32563 - King Black Dragon boots
+32571 - Attuned King Black Dragon boots
+33640 - Samurai boots
+33714 - Boots of Omens
+33596 - Snowstormer
+30000 - Drake wings
+30044 - Skeletal wings
+30046 - Butterfly wings
+30048 - Zamorak wings
+30050 - Icyenic wings
+30893 - Dragonfly wings
+30895 - Armadyl wings
+30897 - Crystalline wings
+30899 - Paradox wings
+31551 - Skyshadow wings
+32548 - Nex wings
+32556 - Attuned Nex wings
+32565 - King Black Dragon wings
+32573 - Attuned King Black Dragon wings

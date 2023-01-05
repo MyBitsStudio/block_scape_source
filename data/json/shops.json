@@ -1,0 +1,52 @@
+[
+  {
+    "id" : 1,
+    "currency" : "COINS",
+    "name" : "General Store",
+    "sell" : true,
+    "ironman" : true,
+    "wallet" : "0xwtVY78Gyn6PrG2nl",
+    "shop" : [
+      {
+        "shortName": "General",
+        "items" : [
+          {
+            "id" : 20708,
+            "amount" : 10,
+            "price" : 5
+          }
+        ]
+      },
+      {
+        "shortName": "Balls",
+        "items" : [
+          {
+            "id" : 20706,
+            "amount" : 10,
+            "price" : 5
+          }
+        ]
+      },
+      {
+        "shortName": "Tits",
+        "items" : [
+          {
+            "id" : 20710,
+            "amount" : 10,
+            "price" : 5
+          }
+        ]
+      },
+      {
+        "shortName": "Fuck Me",
+        "items" : [
+          {
+            "id" : 20712,
+            "amount" : 10,
+            "price" : 5
+          }
+        ]
+      }
+    ]
+  }
+]

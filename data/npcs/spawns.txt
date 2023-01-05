@@ -1,0 +1,260 @@
+// Oracle, 0, added by: zeus
+746 - 2707 9486 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Black demon, 98, added by: zeus
+84 - 2708 9482 0
+// Zaff, 0, added by: zeus
+546 - 2325 3165 0
+// Ice warrior, 54, added by: sumail
+145 - 3040 9582 0
+// Ice warrior, 54, added by: sumail
+145 - 3038 9575 0
+// Ice warrior, 54, added by: sumail
+145 - 3046 9579 0
+// Ice warrior, 54, added by: sumail
+145 - 3049 9589 0
+// Ice warrior, 54, added by: sumail
+145 - 3053 9578 0
+// Ice warrior, 54, added by: sumail
+145 - 3060 9579 0
+// Ice warrior, 54, added by: sumail
+145 - 3057 9572 0
+// Ice warrior, 54, added by: sumail
+145 - 3064 9573 0
+// Ice warrior, 54, added by: sumail
+145 - 3055 9566 0
+// Ice warrior, 54, added by: sumail
+145 - 3048 9570 0
+// Ice warrior, 54, added by: sumail
+145 - 3033 9583 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2414 4376 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2421 4374 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2420 4382 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2410 4381 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2411 4376 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2418 4374 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2413 4372 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2405 4373 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2415 4375 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2417 4370 0
+// Mutated zygomite, 58, added by: sumail
+3346 - 2423 4374 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3052 9544 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3056 9543 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3063 9543 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3065 9549 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3063 9553 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3049 9554 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3045 9554 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3043 9543 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3037 9544 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3029 9545 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3032 9550 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3035 9557 0
+// Skeletal Wyvern, 109, added by: sumail
+3068 - 3027 9555 0
+// Chaos dwarf, 101, added by: sumail
+18391 - 2821 10156 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2818 10157 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2819 10154 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2821 10156 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2823 10156 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2824 10154 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2825 10151 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2828 10153 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2832 10151 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2836 10149 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2839 10146 0
+// Chaos dwarf, 28, added by: sumail
+8779 - 2836 10145 0
+// Easter impling, 0, added by: sumail
+7420 - 2464 5352 0
+// Easter impling, 0, added by: sumail
+7420 - 2460 5354 0
+// Easter impling, 0, added by: sumail
+7420 - 2459 5357 0
+// Easter impling, 0, added by: sumail
+7420 - 2464 5357 0
+// Easter impling, 0, added by: sumail
+7420 - 2468 5357 0
+// Blink, 127, added by: zeus
+12878 - 4313 864 0
+// Dark beast, 105, added by: zeus
+2783 - 3107 3497 0
+// Gambler, 0, added by: zeus
+2998 - 4303 867 0
+// Gambler, 0, added by: zeus
+2998 - 4319 875 0
+// Black demon, 98, added by: zeus
+4702 - 4312 875 0
+// King Vargas, 0, added by: zeus
+7402 - 4312 875 0
+// H.A.M. agent William, 0, added by: zeus
+1743 - 2502 3860 0
+// Advisor Ghrim, 0, added by: zeus
+3120 - 2502 3859 0
+// Merchant Xenia, 0, added by: zeus
+2465 - 2333 3177 0
+// King Vargas, 0, added by: zeus
+7402 - 2357 3174 1
+// Gambler, 0, added by: zeus
+2998 - 2349 3173 0
+// Mercenary mage, 70, added by: zeus
+8335 - 3204 5494 0
+// Barrelchest, 93, added by: zeus
+5666 - 3873 4708 0
+// Barrelchest, 93, added by: zeus
+5666 - 3871 4709 0
+// Barrelchest, 93, added by: zeus
+5666 - 3871 4706 0
+// Barrelchest, 93, added by: zeus
+5666 - 3878 4703 0
+// Masuta the Ascended, 1000, added by: zeus
+25589 - 1759 5231 0
+// Masuta the Ascended, 1000, added by: zeus
+25589 - 1757 5228 0
+// Masuta the Ascended, 1000, added by: zeus
+25589 - 1759 5230 0
+// Masuta the Ascended, 1000, added by: zeus
+25589 - 1756 5222 0
+// Masuta the Ascended, 1000, added by: zeus
+25589 - 1764 5225 0
+// Lord Alexei Jovkai, 0, added by: quantum
+22542 - 3229 2778 0
+// Man, 4, added by: quantum
+1 - 3230 2773 0
+// Man, 4, added by: quantum
+2 - 3230 2773 0
+// Man, 4, added by: quantum
+3 - 3230 2773 0
+// Man, 4, added by: corrupt
+2 - 3228 2777 0
+// Tuai Leit moai, 0, added by: corrupt
+23452 - 3228 2777 0
+// Green Gemstone Director, 0, added by: corrupt
+2103 - 3230 2776 0
+// Man, 4, added by: corrupt
+3 - 3229 2777 0
+// Man, 4, added by: corrupt
+2 - 3229 2776 0
+// Dragon snowman, 0, added by: corrupt
+6743 - 3293 3071 0
+// Raptor (dragon expert), 0, added by: corrupt
+25859 - 3291 3071 0
+// Royal dragon, 0, added by: corrupt
+25754 - 3291 3070 0
+// Hydrix dragon, 118, added by: corrupt
+25684 - 3292 3070 0
+// Celestial dragon, 114, added by: corrupt
+25681 - 3292 3070 0
+// Fly dragon, 0, added by: corrupt
+24429 - 3292 3070 0
+// Revenant Dragon, 0, added by: corrupt
+23608 - 3292 3069 0
+// Revenant Dragon, 0, added by: corrupt
+23609 - 3292 3068 0
+// Spirit dragon, 0, added by: corrupt
+23029 - 3292 3067 0
+// RuneFest dragonling, 0, added by: corrupt
+21817 - 3294 3062 0
+// Elite rune dragon, 130, added by: corrupt
+21138 - 3295 3062 0
+// Celestial dragon, 127, added by: corrupt
+19109 - 3295 3062 0
+// Dragon-hunter warrior, 94, added by: corrupt
+19118 - 3297 3057 0
+// Royal dragon, 0, added by: corrupt
+25754 - 3300 3053 0
+// Corrupted creature, 0, added by: corrupt
+24783 - 89 733 0
+// Balthazar, 0, added by: corrupt
+24809 - 89 733 0
+// Mod Passata, 0, added by: corrupt
+24818 - 86 734 0
+// Mod Nova, 0, added by: corrupt
+24821 - 87 734 0
+// Gunther, 0, added by: corrupt
+24881 - 85 733 0
+// Evil Davina, 0, added by: corrupt
+25042 - 84 732 0
+// Evil Davina, 455, added by: corrupt
+25042 - 92 721 0
+// Evil Davina, 455, added by: corrupt
+25042 - 3535 5189 0
+// Raptor (dragon expert), 855, added by: corrupt
+25859 - 3171 3244 0
